@@ -5,6 +5,7 @@ Click [here](https://movieflix-gdsc.herokuapp.com/) to see live demo
 2. Mochammad Kevin Ariobimo - 48
 3. Rahmad Ilham Sani - 47
 4. Andyana Lilmuttaqina Mafaza - 155
+5. Naufal Akbar Rahardjo - 335
 
 Services Used
 - [Heroku](https://dashboard.heroku.com/)
