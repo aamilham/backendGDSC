@@ -13,5 +13,5 @@ Services Used
 
 disclaimer:
 - only one person can log in at a time and another device can access it too until the person choose to log out
-- wishlist system delay parah bro
+- wishlist system nya delay parah bro
 - we are aware that this is not the best login system in the world (hopefully not the worst) due to our limited knowledges and experiences
