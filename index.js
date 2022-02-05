@@ -55,11 +55,15 @@ app.get("/", function(req, res){
 })
 
 app.get("/login", function (req, res){
+    if (logged === true){
+        res.redirect("/")
+    } else {
         if (isWrongPass === false) {
             res.render('login', {title: "Login Page"});
         } else {
             res.render('login2', {title: "Login Page"});
         }
+    }
 })
 
 app.post("/login", encoder, function(req, res){
@@ -84,7 +88,9 @@ app.post("/login", encoder, function(req, res){
 })
 
 app.get("/register", function (req,res){
-    res.render('register', {title: "Register Page"});
+    if (logged === true){
+        res.redirect("/")
+    } else {res.render('register', {title: "Register Page"});}
 })
 
 app.post("/register", encoder, function(req, res){
