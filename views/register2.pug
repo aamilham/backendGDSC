@@ -3,7 +3,7 @@ head
   meta(charset='UTF-8')
   title Login
   style 
-    include ./login.css
+    include ./register.css
 body 
   app.use(express.static('resources'))
   img(src='image.jpg' , alt='some image') 
@@ -20,3 +20,5 @@ body
     .login_link
       | Have an account? 
       a(href='/login') Log in
+script.
+  alert("Register Failed! Either the input is wrong or username already exist or you are just unlucky...or the developer did something stupid");

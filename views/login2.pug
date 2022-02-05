@@ -3,7 +3,7 @@ head
   meta(charset='UTF-8')
   title Login
   style 
-    include ./login2.css
+    include ./login.css
 body 
   app.use(express.static('resources'))
   img(src='image.jpg' , alt='some image') 
@@ -21,4 +21,4 @@ body
       | Register? 
       a(href='/register') Sign up
 script.
-  alert("Wrong Username/Password");
+  alert("Login Failed! Either username is wrong or password is wrong or both are wrong (wtf how can both be wrong) or you are just unlucky...or the developer did something stupid");
