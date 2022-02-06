@@ -4,18 +4,28 @@ Click [here](https://movieflix-gdsc.herokuapp.com/) to see live demo
   # Screenshots
  Index Page![Index page](https://github.com/irfanalmsyah/backendGDSC/blob/master/screenshots/indexpage1.png?raw=true)
   Index Page
+
 ![Index page](https://github.com/irfanalmsyah/backendGDSC/blob/master/screenshots/indexpage2.png?raw=true)
 Index Page
+
 ![Index page](https://github.com/irfanalmsyah/backendGDSC/blob/master/screenshots/indexpage3.png?raw=true)
+
 Login Page ![Login page](https://github.com/irfanalmsyah/backendGDSC/blob/master/screenshots/loginpage.png?raw=true)
 Register Page
+
 ![Register page](https://github.com/irfanalmsyah/backendGDSC/blob/master/screenshots/registerpage.png?raw=true)
 Wishlist Page
+
 ![Wishlist page](https://github.com/irfanalmsyah/backendGDSC/blob/master/screenshots/wishlistpage1.png?raw=true)
+
 Wishlist Page![Wishlist page](https://github.com/irfanalmsyah/backendGDSC/blob/master/screenshots/wishlistpage2.png?raw=true)
+
 User Table
+
 ![Wishlist page](https://github.com/irfanalmsyah/backendGDSC/blob/master/screenshots/databaselogin.png?raw=true)
+
 Wishlist table
+
 ![Wishlist page](https://github.com/irfanalmsyah/backendGDSC/blob/master/screenshots/databasewishlist.png?raw=true)
 #  Anggota Kelompok
 
